@@ -4,4 +4,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-This is differenct from the line on the other branch
+Both of them were not good enough.
